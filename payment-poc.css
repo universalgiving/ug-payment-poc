@@ -1,1 +1,25 @@
 /* CSS declarations go here */
+html, body{
+	height: 100%;
+}
+
+#cartHeader{
+	height: 10%;
+}
+
+#smLogo{
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+#cartBody{
+	height: 60%;
+}
+
+#cartFooter{
+	height: 20%;
+}
+
+#cartTail{
+	height: 10%;
+}
